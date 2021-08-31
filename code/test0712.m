@@ -1,0 +1,4 @@
+
+clear variables;
+close all;
+
